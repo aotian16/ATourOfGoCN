@@ -6,7 +6,7 @@ import (
     "math"
 )
 
-// 也可以用,效果一样
+// 也可以用多行导入,效果一样
 // import "fmt"
 // import "math"
 
